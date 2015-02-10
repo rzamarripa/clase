@@ -1,0 +1,24 @@
+".container": {
+	backgroundColor:"white"
+}
+
+".containerdark": {
+	backgroundColor:"blue"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#ff0000"
+}
+
+"#lblTab3": {
+	font: {
+		fontSize: 16
+	}
+}
+
+"#btnSaludar":{
+	top:20,
+	left:20
+}

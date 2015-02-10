@@ -1,0 +1,20 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Tab 1">
+			<Window id="wintab1" class="container">
+				<Label>Tab 1</Label>
+				<Button id="btnSaludar" onClick="saludarTab1">Hola a todos</Button>				
+			</Window>
+		</Tab>
+		<Tab title="Tab 2">
+			<Window class="container">
+				<Label>Tab 2</Label>
+			</Window>
+		</Tab>
+		<Tab title="Tab 3">
+			<Window class="containerdark">
+				<Label id="lblTab3">Tab 3</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>
